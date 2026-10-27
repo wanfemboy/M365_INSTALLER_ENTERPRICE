@@ -8,4 +8,10 @@
                                               **     **    **             **  **          **    **    ***           ***          ***           **    **      ** 
                                               ********     *********       ****            ******    ***           *********    ***********  ******   ********
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	
+	⚠PASOS PARA LA INSTALACION DE M365 ENTERPRICE⚠
+PASO 1 descargar los archivo en una capeta (como la raiz)
+PASO 2 abrir el simbolo del sistema en ADMINISTRADOR 
+PASO 3 una vez terminado los pasos 1 y 2 escribir cd "C:/ruta/de/donde/lo_descargaste" <- EJEMPLO
+PASO 4 en esa misma terminal escribir /setup.exe /configure "Configuración.xml"
+PASO 5 preciona enter 
+PASO 6 activa el producto
