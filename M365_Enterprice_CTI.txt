@@ -8,10 +8,48 @@
                                               **     **    **             **  **          **    **    ***           ***          ***           **    **      ** 
                                               ********     *********       ****            ******    ***           *********    ***********  ******   ********
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	⚠PASOS PARA LA INSTALACION DE M365 ENTERPRICE⚠
-PASO 1 descargar los archivo en una capeta (como la raiz)
-PASO 2 abrir el simbolo del sistema en ADMINISTRADOR 
-PASO 3 una vez terminado los pasos 1 y 2 escribir cd "C:/ruta/de/donde/lo_descargaste" <- EJEMPLO
-PASO 4 en esa misma terminal escribir /setup.exe /configure "Configuración.xml"
-PASO 5 preciona enter 
-PASO 6 activa el producto
+△ M365 ENTERPRISE INSTALLATION STEPS / PASOS PARA LA INSTALACIÓN DE M365 ENTERPRISE △
+
+[ESPAÑOL]
+
+PASO 1: Descarga los archivos en una carpeta (como la raíz del disco).
+PASO 2: Abre el Símbolo del sistema (CMD) como ADMINISTRADOR.
+PASO 3: Escribe:
+
+cd "C:\ruta\donde\lo_descargaste"
+
+Ejemplo:
+
+cd "C:\M365_Installer"
+
+PASO 4: En la misma terminal escribe:
+
+setup.exe /configure "Configuración.xml"
+
+PASO 5: Presiona ENTER y espera a que finalice la instalación.
+
+PASO 6: Activa el producto con tu licencia correspondiente.
+
+
+
+[ENGLISH]
+
+STEP 1: Download all files into a folder (preferably in the drive root).
+
+STEP 2: Open Command Prompt (CMD) as ADMINISTRATOR.
+
+STEP 3: Type:
+
+cd "C:\path\where\you\downloaded\the\files"
+
+Example:
+
+cd "C:\M365_Installer"
+
+STEP 4: In the same terminal, type:
+
+setup.exe /configure "Configuración.xml"
+
+STEP 5: Press ENTER and wait for the installation to complete.
+
+STEP 6: Activate the product using your corresponding license.
